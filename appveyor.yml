@@ -5,6 +5,7 @@ branches:
   - coreCLR
 build_script:
   - build-simple.bat
+  - test-simple.bat
 
 
 
